@@ -1,4 +1,4 @@
-# **ToDoList(Without Paging3)**
+# **ToDoList**
 
 #  Features :
 A simple  to-do list application followd by MVVM Architecture pattern
